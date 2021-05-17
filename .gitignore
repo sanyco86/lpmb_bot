@@ -1,2 +1,10 @@
+.DS_Store
 venv/
-.idea
+__pycache__/
+.idea/
+env/
+
+*.log
+
+settings.py
+
